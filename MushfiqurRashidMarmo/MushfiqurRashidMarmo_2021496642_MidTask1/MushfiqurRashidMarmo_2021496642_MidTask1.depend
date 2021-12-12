@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631013394 source:f:\data structures and algoriths\lab class\lab lacture slides\mushfiqurrashidmarmo_2021496642_midtask1\main.cpp
+	"SortedType.h"
+	"SortedType.cpp"
+	<iostream>
+
+1631013394 f:\data structures and algoriths\lab class\lab lacture slides\mushfiqurrashidmarmo_2021496642_midtask1\sortedtype.h
+
+1631013650 f:\data structures and algoriths\lab class\lab lacture slides\mushfiqurrashidmarmo_2021496642_midtask1\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1630822177 source:f:\data structures and algoriths\lab class\lab lacture slides\unsortedlinkedlist\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"UnsortedType.cpp"
+
+1630821366 f:\data structures and algoriths\lab class\lab lacture slides\unsortedlinkedlist\unsortedtype.h
+
+1630820393 f:\data structures and algoriths\lab class\lab lacture slides\unsortedlinkedlist\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+

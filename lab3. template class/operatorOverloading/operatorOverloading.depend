@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1628430749 source:f:\data structures and algoriths\lab class\lab lacture slides\lab3. template class\operatoroverloading\main.cpp
+	<iostream>
+	"complex.h"
+	"complex.cpp"
+
+1628399894 f:\data structures and algoriths\lab class\lab lacture slides\lab3. template class\operatoroverloading\complex.h
+
+1628430679 f:\data structures and algoriths\lab class\lab lacture slides\lab3. template class\operatoroverloading\complex.cpp
+	"complex.h"
+	<iostream>
+

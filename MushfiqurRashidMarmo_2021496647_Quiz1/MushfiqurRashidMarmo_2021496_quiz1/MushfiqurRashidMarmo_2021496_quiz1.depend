@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631041379 source:f:\data structures and algoriths\lab class\lab lacture slides\mushfiqurrashidmarmo_2021496_quiz1\main.cpp
+	<iostream>
+	"UnsortedType.cpp"
+	"UnsortedType.h"
+
+1631040045 f:\data structures and algoriths\lab class\lab lacture slides\mushfiqurrashidmarmo_2021496_quiz1\unsortedtype.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1631016123 f:\data structures and algoriths\lab class\lab lacture slides\mushfiqurrashidmarmo_2021496_quiz1\unsortedtype.h
+

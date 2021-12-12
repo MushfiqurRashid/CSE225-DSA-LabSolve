@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1628749934 source:f:\data structures and algoriths\lab class\lab lacture slides\lab3. template class\unsortedtype.lab4\main.cpp
+	<iostream>
+	"unsortedType.h"
+	"unsortedType.cpp"
+	"studentinfo.h"
+	"studentinfo.cpp"
+
+1628741109 f:\data structures and algoriths\lab class\lab lacture slides\lab3. template class\unsortedtype.lab4\unsortedtype.h
+
+1628749975 f:\data structures and algoriths\lab class\lab lacture slides\lab3. template class\unsortedtype.lab4\unsortedtype.cpp
+	<iostream>
+	"unsortedType.h"
+	"studentinfo.h"
+	"studentinfo.cpp"
+
+1628750159 f:\data structures and algoriths\lab class\lab lacture slides\lab3. template class\unsortedtype.lab4\studentinfo.h
+
+1628749744 f:\data structures and algoriths\lab class\lab lacture slides\lab3. template class\unsortedtype.lab4\studentinfo.cpp
+	<iostream>
+	"studentinfo.h"
+

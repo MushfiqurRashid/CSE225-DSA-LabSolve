@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1630764313 source:f:\data structures and algoriths\lab class\lab lacture slides\assignment2\main.cpp
+	<iostream>
+	"StackType.h"
+	"StackType.cpp"
+	<string>
+
+1630764102 f:\data structures and algoriths\lab class\lab lacture slides\assignment2\stacktype.h
+
+1630764102 f:\data structures and algoriths\lab class\lab lacture slides\assignment2\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1628764883 source:f:\data structures and algoriths\lab class\lab lacture slides\assignment\assignment\main.cpp
+	"QueType.h"
+	"QueType.cpp"
+	<iostream>
+
+1628764472 f:\data structures and algoriths\lab class\lab lacture slides\assignment\assignment\quetype.h
+
+1628764823 f:\data structures and algoriths\lab class\lab lacture slides\assignment\assignment\quetype.cpp
+	"QueType.h"
+	<iostream>
+

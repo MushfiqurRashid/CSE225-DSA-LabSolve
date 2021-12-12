@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1630667434 source:f:\data structures and algoriths\lab class\lab lacture slides\lab09.queuelinkedlist\main.cpp
+	"QueueType.h"
+	"QueueType.cpp"
+	<iostream>
+
+1630667415 f:\data structures and algoriths\lab class\lab lacture slides\lab09.queuelinkedlist\queuetype.h
+
+1630667415 f:\data structures and algoriths\lab class\lab lacture slides\lab09.queuelinkedlist\queuetype.cpp
+	"QueueType.h"
+	<iostream>
+

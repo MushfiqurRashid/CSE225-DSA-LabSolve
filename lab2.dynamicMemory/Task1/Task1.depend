@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1628348119 source:f:\c++ practice\task1\main.cpp
+	"dynarr.h"
+	"dynarr.cpp"
+	<iostream>
+
+1628347980 f:\c++ practice\task1\dynarr.h
+
+1628347861 f:\c++ practice\task1\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1628348507 source:f:\data structures and algoriths\lab class\lab lacture slides\lab2.dynamicmemory\task1\main.cpp
+	"dynarr.h"
+	"dynarr.cpp"
+	<iostream>
+
+1628347980 f:\data structures and algoriths\lab class\lab lacture slides\lab2.dynamicmemory\task1\dynarr.h
+
+1628347861 f:\data structures and algoriths\lab class\lab lacture slides\lab2.dynamicmemory\task1\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+

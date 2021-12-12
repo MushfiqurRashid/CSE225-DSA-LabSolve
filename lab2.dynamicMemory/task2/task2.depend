@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1628350933 source:f:\c++ practice\task2\main.cpp
+	<iostream>
+	"dynArr.h"
+	"dynArr.cpp"
+
+1628349492 f:\c++ practice\task2\dynarr.h
+
+1628350726 f:\c++ practice\task2\dynarr.cpp
+	"dynArr.h"
+	<iostream>
+

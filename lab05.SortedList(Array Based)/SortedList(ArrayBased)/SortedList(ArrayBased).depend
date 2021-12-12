@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1629448960 source:f:\data structures and algoriths\lab class\lab lacture slides\lab05.sortedlist(array based)\sortedlist(arraybased)\main.cpp
+	<iostream>
+	"SortedType.h"
+	"SortedType.cpp"
+
+1629447983 f:\data structures and algoriths\lab class\lab lacture slides\lab05.sortedlist(array based)\sortedlist(arraybased)\sortedtype.h
+
+1629448653 f:\data structures and algoriths\lab class\lab lacture slides\lab05.sortedlist(array based)\sortedlist(arraybased)\sortedtype.cpp
+	<iostream>
+	"SortedType.h"
+

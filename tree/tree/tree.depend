@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631427232 source:f:\data structures and algoriths\lab class\lab lacture slides\tree\tree\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+
+1630666391 f:\data structures and algoriths\lab class\lab lacture slides\tree\tree\binarysearchtree.h
+
+1631429010 f:\data structures and algoriths\lab class\lab lacture slides\tree\tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	<iostream>
+
